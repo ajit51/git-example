@@ -11,6 +11,6 @@ import lombok.Setter;
 @NoArgsConstructor
 public class Employee {
 
-    private int id;
-    private String name;
+    private int empId;
+    private String empName;
 }
