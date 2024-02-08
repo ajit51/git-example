@@ -13,7 +13,7 @@ public class MyController {
 
     @GetMapping("/message")
     public String getMessage() {
-        logger.info("Inside MyController class");
+        //logger.info("Inside MyController class");
         return "Welcome to MyController";
     }
 
