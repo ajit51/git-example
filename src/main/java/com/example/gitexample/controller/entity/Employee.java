@@ -15,4 +15,6 @@ public class Employee {
     private String empName;
 
     private double empSalary;
+
+    private String doj;
 }
